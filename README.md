@@ -14,11 +14,11 @@ The details of our proposed HCFS3D architecture seen as follow
 ## Visulization
 ### Qualitative results on the S3DIS
 
-<img src="https://github.com/Biotan/HCFS3D/blob/main/misc/f3.png" width="400"/>
+<img src="https://github.com/Biotan/HCFS3D/blob/main/misc/f3.png" width="600"/>
 
 ### Qualitative results on the ShapeNet
 
-<img src="https://github.com/Biotan/HCFS3D/blob/main/misc/f4.png"width="400"/>
+<img src="https://github.com/Biotan/HCFS3D/blob/main/misc/f4.png" width="600"/>
 
 ## Evaluation
 ### Quantitative results on the S3DIS
