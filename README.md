@@ -4,7 +4,7 @@ HCFS3D: Hierarchical Coupled Feature Selection Network for 3D Semantic-Instance 
 ### illustration
 The illustration of CFS layer seen as follow
 
-<img src="https://github.com/Biotan/HCFS3D/blob/main/misc/f1.png" width="600"/>
+<img src="https://github.com/Biotan/HCFS3D/blob/main/misc/f1.png" width="400"/>
 
 ### HCFS3D architecture
 The details of our proposed HCFS3D architecture seen as follow
@@ -14,11 +14,11 @@ The details of our proposed HCFS3D architecture seen as follow
 ## Visulization
 ### Qualitative results on the S3DIS
 
-<img src="https://github.com/Biotan/HCFS3D/blob/main/misc/f3.png"/>
+<img src="https://github.com/Biotan/HCFS3D/blob/main/misc/f3.png" width="400"/>
 
 ### Qualitative results on the ShapeNet
 
-<img src="https://github.com/Biotan/HCFS3D/blob/main/misc/f4.png"/>
+<img src="https://github.com/Biotan/HCFS3D/blob/main/misc/f4.png"width="400"/>
 
 ## Evaluation
 ### Quantitative results on the S3DIS
