@@ -38,7 +38,7 @@ git clone https://github.com/Biotan/HCFS3D
 
 4. make the code of pointnet according to [[Pointnet]](https://github.com/charlesq34/pointnet).
 
-5. trainning
+5. trainning (note: we will release the training code once the corresponding paper is accepted)
 ```
 cd HCFS3D/models
 python train.py
